@@ -1,6 +1,6 @@
 
 /*-------------------------------------------------*\
-|  Copyright © 2017 by Roach, All rights reserved.  |
+|  Copyright © 20XX by Roach, All rights reserved.  |
 \*-------------------------------------------------*/
 AddCSLuaFile()
 ENT.Type 			= "anim"

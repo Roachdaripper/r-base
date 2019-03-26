@@ -2,7 +2,7 @@
 /*-----------------------------------------------------------------------------------------------------------*\
 |							 ___________________________________________________ 							  |
 |							/                                                   \							  |
-|							|  Copyright © 2017 by Roach, All rights reserved.  |							  |
+|							|  Copyright © 20XX by Roach, All rights reserved.  |							  |
 |							\___________________________________________________/ 							  |
 |						This base assumes that you know basic lua. It will not teach						  |
 |					you how to make Nextbots. With that said, most of the variables have					  |
