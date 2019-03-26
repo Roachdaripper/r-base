@@ -1,7 +1,7 @@
 
 if SERVER then
 	AddCSLuaFile()
-end
+end 
 
 if CLIENT then
 	SWEP.ViewModelFOV		= 70
